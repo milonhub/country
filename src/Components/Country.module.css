@@ -10,6 +10,8 @@
     flex-grow: 1;
     border-radius: 25px;
     box-sizing: border-box;
+    text-align: center;
+    
 }
 
 .card:hover{
@@ -50,6 +52,7 @@
     .card{
         width: 320px;
         height: 370px;
+        
     }
   }
 
@@ -61,6 +64,7 @@
     .card{
         width: 250px;
         height: 370px;
+       
     }
   }
   
