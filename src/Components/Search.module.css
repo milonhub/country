@@ -1,0 +1,16 @@
+.search input{
+    font-size: 24px;
+    padding: 3px;
+    border-radius: 10px;
+    font-weight: lighter;
+    color: rgb(58, 56, 56);
+    text-align: center;
+}
+
+@media screen and (max-width: 390px) {
+    /* CSS rules for screens with a maximum width of 768 pixels */
+    .search input{
+        width: 220px;
+        
+    }
+  }
